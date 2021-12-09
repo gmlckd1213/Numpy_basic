@@ -1,1 +1,1 @@
-# Numpy_basic
+# Numpy 기초!!
